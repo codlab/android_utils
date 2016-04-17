@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="eu.codlab.library">
+
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <application>
+
+    </application>
+
+</manifest>
